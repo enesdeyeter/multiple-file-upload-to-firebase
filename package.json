@@ -1,0 +1,16 @@
+{
+  "name": "multiple-file-upload-to-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^9.5.0",
+    "uuid-v4": "^0.1.0"
+  }
+}
