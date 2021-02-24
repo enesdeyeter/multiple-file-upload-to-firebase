@@ -12,8 +12,6 @@ Install via terminal
 git clone https://github.com/enesdeyeter/multiple-file-upload-to-firebase.git
 ```
 
-## Loading files
-
 - 	move to main folder `<YOUR-FIREBASE-SERVICES-ACCOUNT-JSON-FILE>.json`
 - 	replace `<YOUR-FIREBASE-BUCKET-NAME>`
 -   move the files you want to upload into the pp folder
